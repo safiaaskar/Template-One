@@ -1,2 +1,2 @@
 # Templet-One
-https://templete-one-leon.netlify.app/
+https://template-one-loen.netlify.app/
